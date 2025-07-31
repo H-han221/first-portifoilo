@@ -1,0 +1,6 @@
+h1{font-size:2rem ;font-family: Verdana, sans-serif;font-style:initial;font-weight: bolder;text-align: center;text-shadow:  1px 1px 3px green ;}
+h2{font-size:1.5rem;font-family: 'Courier New', Courier, monospace;text-align: start;color:cadetblue;font-weight:bolder; }
+p{ font-size: 1rem;text-align: justify;color:blueviolet}
+ul{color:blueviolet;font-weight: lighter;list-style-type:disc }
+.skills{background-color: aqua;}
+.contact{display:block;border: 5px solid brown ;padding:0 0 0 10px}
